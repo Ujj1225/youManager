@@ -27,7 +27,7 @@ const Sidebar = () => {
                     <LockIcon className="mt-[0.1rem] h-3 w-3 text-gray-500 dark:text-gray-300" />
                     <p className="text-xs text-gray-500">Private</p>
                 </div>
-            </div>
+            </div> 
         </div>
     </div>
   </div>
